@@ -1,0 +1,18 @@
+body {
+  background-color: #2471A3;
+}
+h1 {
+  padding-top: 60px;
+  font-style: bold;
+}
+h4 {
+  font-style: italic;
+}
+span {
+  padding-top: 15px;
+  font-size: 200%;
+  background-color: #cc0000;
+}
+.experience {
+  padding-top: 50px;
+}
